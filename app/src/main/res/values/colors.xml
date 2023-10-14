@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="pruebas">#DC2525</color>
+
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#805454</color>
+    <color name="colorAccent">#B69999</color>
+
+    <color name="logout_pricipal">#191B181A</color>
+    <color name="logout_segundario">#E30752</color>
+
+    <color name="color_default">#00FF00</color>
+    <color name="color_pressed">#090B09</color>
+    <color name="color_trasparente">#00FFFFFF</color>
+    <color name="color_negro">#090B09</color>
+    <color name="color_verde_claro">#AAEFAA</color>
+    <color name="color_negro_claro">#474747</color>
+    <color name="color_fondo">#C1C1C1</color>
+
+
+
+</resources>

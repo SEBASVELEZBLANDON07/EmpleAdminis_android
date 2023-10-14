@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">EmpreAdminis</string>
+
+
+    <string name="desplegartexto">desplegado</string>
+    <string name="iniciotexto">este es el inicio</string>
+
+    <string name="apk">apk</string>
+
+    <string name="horasextrastexto">Horas extras</string>
+    <string name="incapacidadtexto">Incapacidad</string>
+    <string name="asistenciatexto">Asistencia</string>
+    <string name="inventariotexto">Inventario</string>
+    <string name="nuevousuariotexto">Ingreso de nuevo usuario</string>
+    <string name="borrarempleadotexto">Borrar empleado</string>
+
+    <string name="botonmas">+</string>
+    <string name="logout">logout</string>
+
+
+    <string name="desplegar_nomempresa">Nombre Empresa</string>
+    <string name="desplegar_correoempresa">direccion.empresa@gmail.com</string>
+
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <!-- esta son los strings de otra pantalla-->
+    <string name="otra_pantalla">Registro De Empleado</string>
+
+    <string name="ing_usuario">Ingresa usuario</string>
+    <string name="ing_password">Ingrese su clave</string>
+    <string name="ing_email">Ingrese su correo</string>
+
+
+    <string name="bott_aceptar">Aceptar</string>
+    <string name="bott_cancel">Cancelar</string>
+
+    <!-- esta son los strings de inicio_sesion-->
+    <string name="text_inisio_seccion">inicio sesion</string>
+    <string name="text_administrativo">Administrativo</string>
+
+    <string name="text_usuario">Usuario Email</string>
+    <string name="text_contraseña">contraseña</string>
+    <string name="text_olvide">Olvidé mi contraseña</string>
+
+    <string name="bott_registrarme">REGISTRARME</string>
+    <string name="bott_inisio_sesion">INICIOAR SESION</string>
+
+    <!-- esta son los strings de pruebas-->
+    <string name="text_alvertencia">Esto es un texto de alvertencia</string>
+
+    <!-- esta son los strings de pruebas-->
+    <string name="text_registro">REGISTRO EMPRESA</string>
+    <string name="text_nom_emplresa">Ingrese El Nombre De La Empresa</string>
+    <string name="text_re_correo">Ingrese El Correco De Empresa</string>
+    <string name="text_re_password">contraseña</string>
+    <string name="bott_crear_em">CREAR PERFIL</string>
+
+
+
+</resources>
